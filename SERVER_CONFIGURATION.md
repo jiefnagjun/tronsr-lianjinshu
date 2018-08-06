@@ -1,1 +1,5 @@
-Describe your server configuration
+
+- EC2实例类型：x1e.32xlarge（128 vCPU,4TRAM 2T SSD）
+- 带宽：25G
+- 预算：$22w/年/个
+- 数量：3个,一台跑节点，一台做本地备份，一台做异地备份。
